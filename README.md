@@ -11,6 +11,5 @@
 
 ## 已转换翻译源
 
- - source001 [http://www.mckinsey.com/insights/rss](http://www.mckinsey.com/insights/rss) -> [mckinsey_rss.xml](rss/mckinsey_rss.xml)
- - source002 [http://www.mckinsey.com/insights/rss](http://www.mckinsey.com/insights/rss) -> [mckinsey_iw_rss.xml](rss/mckinsey_iw_rss.xml)
- - source003 [http://rss.acast.com/nature](http://rss.acast.com/nature) -> [nature_rss.xml](rss/nature_rss.xml)
+ - source001 [https://www.reddit.com/r/MachineLearning/.rss](https://www.reddit.com/r/MachineLearning/.rss) -> [RedditML_rss.xml](rss/RedditML_rss.xml)
+ - source002 [https://www.reddit.com/r/deeplearning/.rss](https://www.reddit.com/r/deeplearning/.rss) -> [RedditDL_rss.xml](rss/RedditDL_rss.xml)
