@@ -5,9 +5,9 @@
 [![circle_translate](https://github.com/Fwngry/Rss-Translation/actions/workflows/circle_translate.yml/badge.svg)](https://github.com/Fwngry/Rss-Translation/actions/workflows/circle_translate.yml)
 [![Deploy](https://github.com/Fwngry/Rss-Translation/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/Fwngry/Rss-Translation/actions/workflows/jekyll-gh-pages.yml)
 
-在 [test.ini](https://github.com/Fwngry/Rss-Translation/blob/main/test.ini) 中修改提交，以转换订阅，转换[rss to json](https://rss2json.com/)
+在 [test.ini](https://github.com/Fwngry/Rss-Translation/blob/main/test.ini)中修改提交，以转换订阅，转换[rss to json](https://rss2json.com/)
 
-查看[ RSS-Translation ](https://Fwngry.github.io/RSS-Translation)使用[ 教程 ](https://www.Fwngry.net/tutorial/644)修改自[ Rss-translate ](https://github.com/rcy1314/Rss-Translation/)
+[ 使用教程 ](https://www.tjsky.net/tutorial/644#i-4)修改自[ Rss-translate ](https://github.com/rcy1314/Rss-Translation/)
 
 ## 已转换翻译源
 
